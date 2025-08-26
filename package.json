@@ -10,7 +10,8 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "parse": "node src/saveJson.js"
+    "parse": "node src/saveJson.js",
+    "save": "node src/saveAsFiles.js"
   },
   "repository": {
     "type": "git",

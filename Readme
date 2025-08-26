@@ -1,0 +1,5 @@
+Install dependencies: npm install
+
+Run parse: npm run parse
+
+Run save: npm run save
