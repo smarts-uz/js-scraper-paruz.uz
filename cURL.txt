@@ -1,1 +1,0 @@
-https://server.paruz.uz/api/profiles?limit=30&page=1&region_id=14&lang=uz
